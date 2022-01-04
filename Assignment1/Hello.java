@@ -1,3 +1,4 @@
+//to print hello world and hello java
 class Hello
 {
 public static void main(String[] args)
@@ -10,7 +11,7 @@ System.out.println("hello java");
 hello world
 hello java*/
 
-*another appproach:
+//another appproach:
 class Hello
 {
 public static void main(String[] args)

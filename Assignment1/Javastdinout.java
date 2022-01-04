@@ -1,3 +1,4 @@
+//program to understand the formatting output 
 import java.util.Scanner;
 import java.util.Formatter;
 class Javastdinout
@@ -26,7 +27,7 @@ python  050
 =========================================
 */
 
-/*approach 2:*/
+//approach 2:
 import java.util.*;
 class Javastdinout
 {

@@ -1,3 +1,4 @@
+//program using loops:for loop is used in this progran
 import java.util.Scanner;
 class Multiplication
 {

@@ -1,3 +1,4 @@
+//Conditional check program:(if-else) is used in this program 
 import java.util.Scanner;
 class Evenodd
 {
@@ -44,7 +45,7 @@ input is invalid
 120
 input is invalid */
 
-/*Another approach:*/
+//Another approach:
 import java.util.Scanner;
 class Evenodd2
 {

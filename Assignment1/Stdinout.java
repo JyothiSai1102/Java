@@ -1,3 +1,4 @@
+//program for standardinput and standardoutput
 import java.util.Scanner;
 class Stdinout
 {
